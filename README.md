@@ -1,4 +1,7 @@
 # admin-test
+
+If I cannot finish this test, the only reason is I dont have enough time!!
+
 clone this code
 cd admin-test
 yarn
